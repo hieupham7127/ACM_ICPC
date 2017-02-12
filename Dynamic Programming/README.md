@@ -16,6 +16,7 @@
 **References**  
  - TopCoder https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/  
  - CLRS book https://cyberzhg.gitbooks.io/clrs/content/Chapter_15_Dynamic_Programming/
+ - Practice problems https://people.cs.clemson.edu/~bcdean/dp_practice/
 
 ***Do not expect yourselves to know everything listed above; rather trying your best to maximize your learning journey.***  
 **Good luck! Have fun!**
