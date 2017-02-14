@@ -31,7 +31,7 @@ SOLUTION(A)
 ```
 
 Example 2: 
-Euclidean's algorithm
+Euclid's algorithm
 ```
 GCD(a, b)
 	if b == 0 then
