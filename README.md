@@ -36,5 +36,5 @@ Euclidean's algorithm
 GCD(a, b)
 	if b == 0 then
 		return a;
-	return GCD(b mod a, a);
+	return GCD(b, a mod b);
 ```
