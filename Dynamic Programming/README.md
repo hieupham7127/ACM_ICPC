@@ -6,11 +6,14 @@
 
 **Dominoes/Tiling a grid problems**
  - http://www.spoj.com/problems/GNY07H/
+ - http://www.geeksforgeeks.org/divide-and-conquer-set-6-tiling-problem/
+
+**Dimensional DP**
 
 **New to Game Theory?**
  - Tree representation of Game Theory   
  ![alt tab](http://www.quickmba.com/images/econ/micro/gametheory/extensiveform.gif)
- - Grundy function 
+ - Grundy function http://www.gabrielnivasch.org/fun/combinatorial-games/sprague-grundy
  - Nim game http://web.mit.edu/sp.268/www/nim.pdf
 
 **References**  
