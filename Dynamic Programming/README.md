@@ -25,5 +25,9 @@
  - SPOJ problems https://apps.topcoder.com/forums/?module=Thread&threadID=674592&start=0&mc=7#1239468
  - Classroom DP and memoization http://www.cs.cornell.edu/~wdtseng/icpc/
  
+ **DP with Matrix Exponentiation**
+ - https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation
+ - http://codeforces.com/contest/621/submission/15736779
+ 
 ***Do not expect yourselves to know everything listed above; rather trying your best to maximize your learning journey.***  
 **Good luck! Have fun!**
