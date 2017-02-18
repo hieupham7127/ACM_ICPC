@@ -18,7 +18,7 @@
  - Grundy function http://www.gabrielnivasch.org/fun/combinatorial-games/sprague-grundy
  - Nim game http://web.mit.edu/sp.268/www/nim.pdf
  
- **DP with matrix exponentiation (Solving linear recurrence)**
+**DP with matrix exponentiation (Solving linear recurrence)**
  - https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation
  - http://codeforces.com/contest/621/submission/15736779
 
