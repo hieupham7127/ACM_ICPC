@@ -9,6 +9,7 @@
  - http://www.geeksforgeeks.org/divide-and-conquer-set-6-tiling-problem/
 
 **Dimensional DP**
+ - http://www.geeksforgeeks.org/dynamic-programming-set-7-coin-change/
 
 **New to Game Theory?**
  - Tree representation of Game Theory   
