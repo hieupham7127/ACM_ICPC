@@ -1,4 +1,31 @@
 # ACM_ICPC
+Goal: Know what they are, when they are used, and how they are used. Solve practice problems.
+
+1. Week1: Dynamic Programming: 
+	- Matrix Multiplication
+	- Knapsack (0/1, unbounded, optimizations)
+	- Tilings
+	- Bitmask 
+	- Game Theory (Grundy, Nim)
+2. Week2: Greedy
+
+3. Week3: Data Structures (Union-Find, PQ)
+
+4. Week4: Graph
+
+5. Week5: Mathematics, Binary Search
+
+6. Week6: Geometry
+
+7. Week7: More DP
+
+8. Week8: More Data Structure
+
+9. Week9: Advanced:
+	- Network Flow (Min cut, Mincostflow)
+	- LCA, 2SAT, SCC
+	- Divide and Conquer
+
 
 **HOW TO WRITE PSEUDO-CODE:**
 
