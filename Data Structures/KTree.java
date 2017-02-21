@@ -6,6 +6,11 @@ import java.util.*;
  * named Solution.
  *
  * If you need more classes, simply define them inline.
+ * 
+ * Problem: 
+ *  k-tree is a tree that each node has at most k children
+ *  binary tree is a special case of k-tree where k = 2
+ *  Develop an algorithm to convert k-tree to 2-tree that can convert back to original k-tree
  */
 
 class Solution {
@@ -30,7 +35,7 @@ class Solution {
   KTree(k) with interfaces
     Node<Integer> random() function to generate k-tree
     Node<Integer> to2Tree(k-root, b-root, left) function to convert to binary tree, return b-root
-    Node<Integer> toKTree(b-root, left, k-root) function to convert to k-tree, return k-root
+    Node<Integer> toKTree(b-root, left, k-root) function to convert back to k-tree, return k-root
     void printTree() function for visualization and debugging
   */
   static class KTree {
