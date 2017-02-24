@@ -68,7 +68,7 @@ class Solution {
       }
       
       for (int i = 0; i < root.children.size(); i++)
-        // each node has 20% chance of having chilren
+        // each node has 25% chance of having chilren
         if (rand.nextFloat() <= 0.25) 
           random(root.children.get(i));
       return root;
