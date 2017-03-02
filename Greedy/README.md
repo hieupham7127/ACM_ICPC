@@ -12,3 +12,5 @@ Greedy
 +  POJ 2393 POJ 3040
 
 You are supposed to solve five problems in total. Good luck!
+
+If you solve any of these problems, please make a pull request and submit your code here in this folder. File names should be like "POJXXXX_name.cpp"
