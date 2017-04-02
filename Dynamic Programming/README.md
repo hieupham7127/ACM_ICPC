@@ -27,6 +27,13 @@
  - Practice problems https://people.cs.clemson.edu/~bcdean/dp_practice/
  - SPOJ problems https://apps.topcoder.com/forums/?module=Thread&threadID=674592&start=0&mc=7#1239468
  - Classroom DP and memoization http://www.cs.cornell.edu/~wdtseng/icpc/
+
+**Problems**
++  [POJ 3176](http://poj.org/problem?id=3176) [POJ 2229](http://poj.org/problem?id=2229) [POJ 2385](http://poj.org/problem?id=2385) [POJ 3616](http://poj.org/problem?id=3616) [POJ 3280](http://poj.org/problem?id=3280)
++  [POJ 1742](http://poj.org/problem?id=1742) [POJ 3046](http://poj.org/problem?id=3046) [POJ 3181](http://poj.org/problem?id=3181)
++  [POJ 1631](http://poj.org/problem?id=1631) [POJ 3666](http://poj.org/problem?id=3666)
+
+You are supposed to solve three problems in total. As a reminder, we are not competing, please add comments so that we can instantly revise both problems and solutions later.
  
 ***Do not expect yourselves to know everything listed above; rather trying your best to maximize your learning journey.***  
 **Good luck! Have fun!**
